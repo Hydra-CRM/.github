@@ -1,28 +1,20 @@
 <!-- START HEADER -->
 <div align="center">
   
-  <!-- UNIFIED & ALIGNED LOGOS HEADER -->
-  <p align="center">
-    <a href="https://hydra-platform.com/en/">
-      <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" height="70" style="vertical-align: middle;" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span style="font-size: 26px; color: #888; vertical-align: middle;">✕</span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hydra-platform.com/en/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta Logo" height="38" style="vertical-align: middle;" />
-    </a>
-  </p>
+  <!-- SINGLE HIGH-RES CLEAN LOGO -->
+  <a href="https://hydra-platform.com/en/">
+    <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" width="120" />
+  </a>
 
-  <br>
+  <br><br>
 
   <!-- Title & Key Selling Point -->
   <h1>🚀 Hydra CRM & Cloud Communications</h1>
-  <h3>Official Meta Tech Provider & Enterprise AI Customer Engagement System</h3>
+  <h3>Official Meta Tech Provider & Enterprise AI Engagement System</h3>
 
   <br>
 
-  <!-- Top-tier Badges -->
+  <!-- Co-Branded Meta Badges -->
   <p align="center">
     <a href="https://hydra-platform.com/en/">
       <img src="https://img.shields.io/badge/Meta_Partner-Official_Tech_Provider-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Verified Partner" />
@@ -43,7 +35,7 @@
 
   <br>
 
-  <!-- Professional Navigation Bar -->
+  <!-- Navigation Bar -->
   <p align="center">
     <a href="https://hydra-platform.com/en/"><b>🌐 Official Website</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="https://hydra-platform.com/ar/request-demo/"><b>🎯 Request Free Demo</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
