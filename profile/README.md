@@ -1,11 +1,17 @@
 <!-- START HEADER -->
 <div align="center">
   
-  <!-- HERO BANNER LOGOS -->
+  <!-- UNIFIED & ALIGNED LOGOS HEADER -->
   <p align="center">
-    <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" width="140" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta Logo" width="160" />
+    <a href="https://hydra-platform.com/en/">
+      <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" height="70" style="vertical-align: middle;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="font-size: 26px; color: #888; vertical-align: middle;">✕</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://hydra-platform.com/en/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta Logo" height="38" style="vertical-align: middle;" />
+    </a>
   </p>
 
   <br>
