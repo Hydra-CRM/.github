@@ -1,33 +1,38 @@
 <!-- START HEADER -->
 <div align="center">
   
-  <!-- 1. HERO BANNER: Hydra + Meta partnership (Requested width: ~800px-1000px, aspect: 3:1) -->
-  <!-- **ACTION REQUIRED:** Replace this URL with your custom-designed Hydra+Meta banner image. -->
-  <img src="https://via.placeholder.com/1000x333.png?text=Hydra+Platform+%2B+Meta+Partnership+Banner+(1000x333)" alt="Hydra Platform and Meta Strategic Partnership Banner" width="100%" />
-
-  <br><br>
-
-  <!-- Title & Key Selling Point -->
-  <h1>🚀 Hydra CRM & Cloud Communications</h1>
-  <h3>The Unified Enterprise AI-Platform for Omnichannel Engagement</h3>
+  <!-- HERO BANNER LOGOS -->
+  <p align="center">
+    <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" width="140" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta Logo" width="160" />
+  </p>
 
   <br>
 
-  <!-- 2. HIGH-IMPACT KEY VISUAL (E.g., Platform Screenshot mockup with key features) -->
-  <!-- **ACTION REQUIRED:** Replace this URL with a beautiful screenshot/mockup of the Hydra platform dashboard. -->
-  <img src="https://via.placeholder.com/800x450.png?text=Hydra+Platform+Dashboard+Mockup+(800x450)" alt="Hydra Platform Dashboard Mockup" width="90%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <!-- Title & Key Selling Point -->
+  <h1>🚀 Hydra CRM & Cloud Communications</h1>
+  <h3>Official Meta Tech Provider & Enterprise AI Customer Engagement System</h3>
 
-  <br><br>
+  <br>
 
-  <!-- Top-tier, simplified Badges -->
+  <!-- Top-tier Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Meta_Partner-Official_Tech_Provider-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Verified Partner" />
-    <img src="https://img.shields.io/badge/WhatsApp_API-Official_Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Official WhatsApp Integration" />
-    <img src="https://img.shields.io/badge/AI_Powered-24%2F7_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered System" />
+    <a href="https://hydra-platform.com/en/">
+      <img src="https://img.shields.io/badge/Meta_Partner-Official_Tech_Provider-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Verified Partner" />
+    </a>
+    <a href="https://hydra-platform.com/en/">
+      <img src="https://img.shields.io/badge/WhatsApp_API-Official_Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Official WhatsApp Integration" />
+    </a>
+    <a href="https://hydra-platform.com/en/">
+      <img src="https://img.shields.io/badge/AI_Engine-24%2F7_Automated-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered System" />
+    </a>
   </p>
 
+  <br>
+
   <p align="center">
-    <b>Transforming Enterprise Communication through WhatsApp Business API, Cloud Call Centers, Field Sales Recording, and Unified CRM Analytics.</b>
+    <b>Empowering Enterprises with WhatsApp Business API, Cloud Call Centers, Field Sales Tracking, and Unified CRM Analytics.</b>
   </p>
 
   <br>
@@ -47,34 +52,42 @@
 
 ## 📖 Table of Contents
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>Click to expand table of contents</b></summary>
 
-1.  [🏢 The Hydra Advantage](#-the-hydra-advantage)
-2.  [💎 Core Product Suite (Visual Guide)](#-core-product-suite-visual-guide)
-    *   [📞 Cloud Call Center](#-cloud-call-center)
-    *   [💬 Business Chat](#-business-chat)
-    *   [📱 Mobile Recorder](#-mobile-recorder)
-    *   [👥 Unified CRM](#-unified-crm)
-3.  [⚙️ Seamless Onboarding & Use Cases](#️-seamless-onboarding--use-cases)
-4.  [💳 Subscription Tiers](#-subscription-tiers)
-5.  [📍 Global HQ & Contact](#-global-hq--contact)
+1. [🏢 About Hydra Platform](#-about-hydra-platform)
+2. [⚙️ System Architecture](#️-system-architecture)
+3. [🚀 Products & Core Capabilities](#-products--core-capabilities)
+4. [🛠️ Usage & Integration Workflows](#️-usage--integration-workflows)
+5. [🎯 Industry Solutions](#-industry-solutions)
+6. [💳 Subscription Plans & Onboarding](#-subscription-plans--onboarding)
+7. [🏆 Client Portfolio](#-client-portfolio)
+8. [📍 Company Contact Details](#-company-contact-details)
 </details>
 
 <br>
 
 
-## 🏢 The Hydra Advantage
+## 🏢 About Hydra Platform
 
-We empower enterprises to deliver **frictionless customer experiences**. Our official Meta partnership ensures the fastest, most reliable WhatsApp Business API integrations, combined with deep CRM analytics and powerful AI automation.
+**Hydra Platform** is an official **Meta Verified Tech Provider** delivering enterprise-grade cloud communication and CRM software. Powered by conversational AI, Hydra enables businesses to streamline customer interactions, automate multi-channel messaging, and manage both remote call center agents and field sales reps from a single, centralized dashboard.
 
 ```text
-  ┌───────────────────────────┐       ┌───────────────────────────┐
-  │   Omnichannel Inbox       │       │    Cloud Call Center     │
-  │ (WhatsApp, FB, Insta,...) ├───────┤   (WebRTC, IVR, Recordings)│
-  └─────────────┬─────────────┘       └─────────────┬─────────────┘
-                │                                   │
-                ▼                                   ▼
-        ┌───────┴───────┐                   ┌───────┴───────┐
-        │  Hydra AI Core │ ────────────────  │Unified CRM DB  │
-        │ (Bots, Routing)│                   │(360° Profile) │
-        └───────────────┘                   └───────────────┘
+ ┌─────────────────────────────────────────────────────────────────────────────┐
+ │                         🤖 HYDRA AI CORE ENGINE                             │
+ └──────────────────────────────────────┬──────────────────────────────────────┘
+                                        │
+         ┌──────────────────────────────┼──────────────────────────────┐
+         ▼                              ▼                              ▼
+  📞 Cloud Call Center           💬 Business Chat              📱 Mobile Recorder
+  - IVR & Smart Routing          - WhatsApp API & Social       - Field Call Tracking
+  - Softphone & WebRTC           - Unified Shared Inbox        - Mobile Audio Logs
+  - Live Agent Monitoring        - AI Chatbots (24/7)          - Auto CRM Sync
+         │                              │                              │
+         └──────────────────────────────┼──────────────────────────────┘
+                                        │
+                                        ▼
+             ┌──────────────────────────────────────────────────┐
+             │       👥 UNIFIED CRM & ANALYTICS ENGINE          │
+             │   - Contact Timelines   - Conversion Funnels     │
+             │   - SLA Management      - Real-Time Dashboards   │
+             └──────────────────────────────────────────────────┘
