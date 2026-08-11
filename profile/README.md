@@ -1,66 +1,63 @@
 <div align="center">
 
-  <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" width="140" />
+  <img src="https://hydra-platform.com/assets/images/300x300-01.png" alt="Hydra Platform Logo" width="130" />
 
   # 🚀 Hydra CRM & Cloud Communications Platform
-  ### المنصة الرقمية المتكاملة للاتصالات السحابية وإدارة العملاء بالذكاء الاصطناعي
+  ### AI-Powered Omnichannel Customer Engagement & Cloud Contact Center
 
-  [![Meta Verified Partner](https://img.shields.io/badge/Meta_Verified-Official_Partner-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://hydra-platform.com/ar/)
-  [![AI Engine](https://img.shields.io/badge/AI_Engine-Powered_24%2F7-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://hydra-platform.com/ar/)
-  [![Platform Status](https://img.shields.io/badge/Status-Active_&_Operational-brightgreen?style=for-the-badge)](https://hydra-platform.com/ar/)
-  [![Enterprise Clients](https://img.shields.io/badge/Trusted_By-130%2B_Enterprises-blueviolet?style=for-the-badge)](https://hydra-platform.com/ar/)
+  [![Meta Verified Partner](https://img.shields.io/badge/Meta_Verified-Official_Partner-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://hydra-platform.com/en/)
+  [![AI Engine](https://img.shields.io/badge/AI_Engine-24%2F7_Automated-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://hydra-platform.com/en/)
+  [![Service Status](https://img.shields.io/badge/Platform_Status-Active-brightgreen?style=for-the-badge)](https://hydra-platform.com/en/)
+  [![Enterprise Clients](https://img.shields.io/badge/Trusted_By-130%2B_Enterprises-blueviolet?style=for-the-badge)](https://hydra-platform.com/en/)
 
   <p align="center">
-    <b>المنصة الموحدة لإدارة المكالمات، المحادثات، فريق المبيعات الميداني، والتواصل الذكي مع العملاء في مكان واحد.</b>
+    <b>Unify Call Centers, Social Messaging, Field Sales Recording, and CRM Analytics into One Powerful Platform.</b>
   </p>
 
   ---
 
-  [🌐 زيارة الموقع الرسمي](https://hydra-platform.com/ar/) • 
-  [🎯 طلب تجربة مجانية](https://hydra-platform.com/ar/request-demo/) • 
-  [💳 خطط الأسعار](https://hydra-platform.com/ar/pricing/) • 
-  [📞 تواصل معنا](https://hydra-platform.com/ar/contact-us/)
+  [🌐 Official Website](https://hydra-platform.com/en/) • 
+  [🎯 Request Free Demo](https://hydra-platform.com/ar/request-demo/) • 
+  [💳 View Pricing](https://hydra-platform.com/ar/pricing/) • 
+  [📞 Contact Support](https://hydra-platform.com/ar/contact-us/)
 
 </div>
 
 ---
 
-## 📖 جدول المحتويات
-1. [🏢 نبذة عن المنصة (About Platform)](#-نبذة-عن-المنصة-about-platform)
-2. [⚙️ المعمارية والهيكلية الفنية (System Architecture)](#️-المعمارية-والهيكلية-الفنية-system-architecture)
-3. [🚀 الخدمات والبرمجيات التفصيلية (Products & Solutions)](#-الخدمات-والبرمجيات-التفصيلية-products--solutions)
-4. [🎯 القطاعات المستهدفة (Target Sectors)](#-القطاعات-المستهدفة-target-sectors)
-5. [📈 الإحصائيات والقيمة المضافة (Key Impact Metrics)](#-الإحصائيات-والقيمة-المضافة-key-impact-metrics)
-6. [🏆 أبرز شركاء النجاح (Client Portfolio)](#-أبرز-شركاء-النجاح-client-portfolio)
-7. [📍 معلومات التواصل والربط (Contact & Support)](#-معلومات-التواصل-والربط-contact--support)
+## 📑 Table of Contents
+1. [🏢 About Hydra Platform](#-about-hydra-platform)
+2. [⚙️ System Architecture](#️-system-architecture)
+3. [🚀 Products & Core Capabilities](#-products--core-capabilities)
+4. [🛠️ Usage & Integration Workflows](#️-usage--integration-workflows)
+5. [🎯 Industry Solutions](#-industry-solutions)
+6. [💳 Subscription Plans & Onboarding](#-subscription-plans--onboarding)
+7. [🏆 Client Portfolio](#-client-portfolio)
+8. [📍 Company Contact Details](#-company-contact-details)
 
 ---
 
-## 🏢 نبذة عن المنصة (About Platform)
+## 🏢 About Hydra Platform
 
-تُعد **منصة هايدرا (Hydra CRM Platform)** شريكاً تقنياً رسمياً لشركة **Meta**. توفر المنصة حلول اتصالات سحابية شاملة تعتمد على الذكاء الاصطناعي لتمكين الشركات من تحسين وتسهيل كافة عمليات التواصل مع العملاء عبر قناة موحدة، وأتمتة المبيعات ودعم العملاء بإنتاجية عالية.
-
----
-
-## ⚙️ المعمارية والهيكلية الفنية (System Architecture)
+**Hydra Platform** is an official **Meta Verified Partner** delivering enterprise-grade cloud communication and CRM software. Powered by conversational AI, Hydra enables businesses to streamline customer interactions, automate multi-channel messaging, and manage both remote call center agents and field sales reps from a single, centralized dashboard.
 
 ```text
- ┌─────────────────────────────────────────────────────────────────────────┐
- │                      🤖 HYDRA AI CORE ENGINE                            │
- └────────────────────────────────────┬────────────────────────────────────┘
-                                      │
-         ┌────────────────────────────┼────────────────────────────┐
-         ▼                            ▼                            ▼
-  📞 Cloud Call Center         💬 Business Chat            📱 Mobile Recorder
-  - IVR / Queues               - Unified Inbox             - Field Sales Sync
-  - Softphone / WebRTC         - WhatsApp API              - Call Logs & Audio
-  - Live Supervision           - Chatbot / Templates       - Auto CRM Push
-         │                            │                            │
-         └────────────────────────────┼────────────────────────────┘
-                                      │
-                                      ▼
-             ┌────────────────────────────────────────────────┐
-             │       👥 UNIFIED CRM & ANALYTICS ENGINE        │
-             │   - Lead Management   - Customer Timeline      │
-             │   - SLA Tracking      - Real-Time Dashboards   │
-             └────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────────────────────┐
+ │                         🤖 HYDRA AI CORE ENGINE                             │
+ └──────────────────────────────────────┬──────────────────────────────────────┘
+                                        │
+         ┌──────────────────────────────┼──────────────────────────────┐
+         ▼                              ▼                              ▼
+  📞 Cloud Call Center           💬 Business Chat              📱 Mobile Recorder
+  - IVR & Smart Routing          - WhatsApp API & Social       - Field Call Tracking
+  - Softphone & WebRTC           - Unified Shared Inbox        - Mobile Audio Logs
+  - Live Agent Monitoring        - AI Chatbots (24/7)          - Auto CRM Sync
+         │                              │                              │
+         └──────────────────────────────┼──────────────────────────────┘
+                                        │
+                                        ▼
+             ┌──────────────────────────────────────────────────┐
+             │       👥 UNIFIED CRM & ANALYTICS ENGINE          │
+             │   - Contact Timelines   - Conversion Funnels     │
+             │   - SLA Management      - Real-Time Dashboards   │
+             └──────────────────────────────────────────────────┘
